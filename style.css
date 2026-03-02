@@ -27,6 +27,10 @@
     padding-bottom: 80px;
 }
 
+.ajuste {
+    padding: 90px;
+}
+
 .flex {
     display: flex;
 }

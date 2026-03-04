@@ -11,10 +11,14 @@
     margin:30px;
 }
 
+
 .yo {
     background-color: #f7e167;
     padding: 20px;
     margin: 10px;
+}
+.margintop{
+    margin-bottom: 20px;
 }
 
 .red {
